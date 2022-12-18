@@ -4,22 +4,26 @@
   type: github
   icon: 'fab fa-github'
 -
+  type: linkedin #Using this one for youtube
+  icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.youtube.com/gersondelacruz'                  # Fill with your youtubbe channel page
+-
   type: twitter
   icon: 'fab fa-twitter'
-#-
- # type: email
- # icon: 'fas fa-envelope'
- # noblank: true            # open link in current tab
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/gerson-de-la-cruz-6a374511a'                  # Fill with your Linkedin homepage
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+#-
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
+#-
+ # type: email
+ # icon: 'fas fa-envelope'
+ # noblank: true            # open link in current tab
 # -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
