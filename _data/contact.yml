@@ -11,7 +11,7 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
-  type: linkedin
+  type: facebook
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/gerson-de-la-cruz-6a374511a'                  # Fill with your Linkedin homepage
 #-
